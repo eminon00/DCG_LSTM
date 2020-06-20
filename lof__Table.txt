@@ -1,0 +1,20 @@
+['./LPL/lpl2019summer_w1d1_dmo_vs_edg_1.csv'& 0.219& 0.224&
+['./LPL/lpl2019summer_w1d1_dmo_vs_edg_2.csv'& 0.339& 0.349&
+['./LPL/lpl2019summer_w1d1_jdg_vs_fpx_1.csv'& 0.212& 0.206&
+['./LPL/lpl2019summer_w1d1_jdg_vs_fpx_2.csv'& 0.322& 0.327&
+['./LPL/lpl2019summer_w1d2_lgd_vs_v5_1.csv'& 0.129& 0.138&
+['./LPL/lpl2019summer_w1d2_lgd_vs_v5_2.csv'& 0.238& 0.23&
+['./LPL/lpl2019summer_w1d2_lgd_vs_v5_3.csv'& 0.126& 0.097&
+['./LPL/lpl2019summer_w2d1_ig_vs_dmo_1.csv'& 0.203& 0.198&
+['./LPL/lpl2019summer_w2d1_ig_vs_dmo_2.csv'& 0.434& 0.447&
+['./LPL/lpl2019summer_w2d1_ig_vs_dmo_3.csv'& 0.222& 0.207&
+['./LPL/lpl2019summer_w2d1_sn_vs_vg_1.csv'& 0.182& 0.189&
+['./LPL/lpl2019summer_w2d1_sn_vs_vg_2.csv'& 0.096& 0.099&
+['./LPL/lpl2019summer_w2d1_sn_vs_vg_3.csv'& 0.144& 0.175&
+['./LPL/lpl2019summer_w2d2_blg_vs_v5_1.csv'& 0.344& 0.365&
+['./LPL/lpl2019summer_w2d2_blg_vs_v5_2.csv'& 0.386& 0.383&
+['./LPL/lpl2019summer_w2d2_lng_vs_jdg_1.csv'& 0.18& 0.195&
+['./LPL/lpl2019summer_w2d2_lng_vs_jdg_2.csv'& 0.121& 0.136&
+['./LPL/lpl2019summer_w2d2_lng_vs_jdg_3.csv'& 0.262& 0.248&
+0.23105555555555554
+0.23405555555555557
